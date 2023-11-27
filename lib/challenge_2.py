@@ -10,7 +10,7 @@ def two_positive_numbers(a,b,c):
     return positive_count == 2
 
 # Examples
-print(exactly_two_positive(4, -6, 9))  
+print(two_positive_numbers(4, -6, 9))  
 # Should output True
-print(exactly_two_positive(-4, 6, 0))  
+print(two_positive_numbers(-4, 6, 0))  
 # Should output False
