@@ -11,3 +11,9 @@ def changing_to_24_hour(hour, minute, period):
             hour += 12
     # Returning time in 24 hour format.
     return f"{hour:02d}{minute:02d}"
+
+# Examples
+print(changing_to_24_hour(8,30,"am"))
+# Should output 0830
+print(changing_to_24_hour(8,30,"pm"))
+# Should output 2030

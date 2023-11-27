@@ -24,3 +24,9 @@ def solve(word):
     # Returning max consonant value
     return highest_consonant_value
 
+# Examples:
+print(solve("zodiacs"))  
+# Should output 26
+print(solve("strength")) 
+# Should output 57
+
