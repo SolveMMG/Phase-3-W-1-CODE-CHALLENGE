@@ -30,13 +30,21 @@ python3 challenge_3.py
 
 ## Illustrations
 - Challenge 1:
+
 ![1stimage](/public/1.png)
+
 ![2ndimage](/public/2.png)
+
 - Challenge 2:
+
 ![3rdimage](/public/3.png)
+
 ![4thimage](/public/4.png)
+
 - Challenge 3:
+
 ![5thimage](/public/5.png)
+
 ![6thimage](/public/6.png)
 
 # Author
